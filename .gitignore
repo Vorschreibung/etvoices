@@ -1,0 +1,11 @@
+*.ogg
+*.onnx*
+*.txt
+*.wav
+.numba_cache
+.piper-env.Containerfile.sha256sum
+bk
+checkpoint-en-us
+dataset-*
+metadata.csv
+piper

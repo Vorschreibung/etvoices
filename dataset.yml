@@ -1,0 +1,380 @@
+allies:
+  ./wav/battery/allies/hq_bunkercap.wav: capture the west bunker
+  ./wav/battery/allies/hq_bunkercapd.wav: west bunker captured
+  ./wav/battery/allies/hq_bunkerrecl.wav: they retaken the west bunker
+  ./wav/battery/allies/hq_gendest.wav: generator destroyed
+  ./wav/battery/allies/hq_gendyn.wav: destroy the generator
+  ./wav/battery/allies/hq_gunctrldyn.wav: destroy the gun control
+  ./wav/battery/allies/hq_rampcon.wav: construct the assault ramp
+  ./wav/battery/allies/hq_rampconst.wav: assault ramp constructed
+  ./wav/battery/allies/hq_rampdest.wav: they destroyed the assault ramp
+
+  ./wav/fueldump/allies/hq_bridgecon.wav: construct the bridge
+  ./wav/fueldump/allies/hq_bridgeconst.wav: bridge constructed
+  ./wav/fueldump/allies/hq_bridgedam.wav: they damaged the bridge
+  ./wav/fueldump/allies/hq_bridgedest.wav: they destroyed the bridge
+  ./wav/fueldump/allies/hq_bridgereinf.wav: reinforce the bridge
+  ./wav/fueldump/allies/hq_bridgereinfd.wav: bridge reinforced
+  ./wav/fueldump/allies/hq_depotdest.wav: depot defenses destroyed
+  ./wav/fueldump/allies/hq_depotdyn.wav: destroy the depot defenses
+  ./wav/fueldump/allies/hq_dumpdyn.wav: dynamite the fuel dump
+  ./wav/fueldump/allies/hq_gatesdest.wav: depot gates destroyed
+  ./wav/fueldump/allies/hq_gratedest.wav: we destroyed the tunnel grate
+  ./wav/fueldump/allies/hq_tankbridge.wav: escort the tank over the bridge
+  ./wav/fueldump/allies/hq_tankgates.wav: escort the tank to the depot gates
+  ./wav/fueldump/allies/hq_tankrear.wav: escort the tank to the rear of the depot
+  ./wav/fueldump/allies/hq_tunneldest.wav: tunnel doors destroyed
+  ./wav/fueldump/allies/hq_walldest.wav: depot side wall breached
+
+  ./wav/general/allies/hq_2minutes_a.wav: two minutes to get out of here, soldier
+  ./wav/general/allies/hq_2minutes_b.wav: two minutes to get out of here, soldier
+  ./wav/general/allies/hq_5minutes_a.wav: only five minutes, soldier
+  ./wav/general/allies/hq_5minutes_b.wav: only five minutes, soldier
+  ./wav/general/allies/hq_30seconds_a.wav: thirty seconds, come on, move it
+  ./wav/general/allies/hq_30seconds_b.wav: thirty seconds, come on, move it
+  ./wav/general/allies/hq_airabort_a.wav: aborting, can't see target
+  ./wav/general/allies/hq_airabort_b.wav: aborting, can't see target
+  ./wav/general/allies/hq_airdenied_a.wav: too many air strikes requested
+  ./wav/general/allies/hq_airdenied_b.wav: too many air strikes requested
+  ./wav/general/allies/hq_airstrike_a.wav: affirmative
+  ./wav/general/allies/hq_airstrike_b.wav: on my way
+  ./wav/general/allies/hq_artabort_a.wav: aborting, can't see target
+  ./wav/general/allies/hq_artabort_b.wav: aborting, can't see target
+  ./wav/general/allies/hq_artdenied_a.wav: insufficient fire support
+  ./wav/general/allies/hq_artdenied_b.wav: insufficient fire support
+  ./wav/general/allies/hq_artillery_a.wav: firing for effect
+  ./wav/general/allies/hq_artillery_b.wav: firing for effect
+  ./wav/general/allies/hq_conconst_a.wav: construction completed
+  ./wav/general/allies/hq_conconst_b.wav: construction completed
+  ./wav/general/allies/hq_condest_a.wav: construction destroyed
+  ./wav/general/allies/hq_condest_b.wav: construction destroyed
+  ./wav/general/allies/hq_confail.wav: construction failed
+  ./wav/general/allies/hq_cpcon_a.wav: construct the command post
+  ./wav/general/allies/hq_cpcon_b.wav: construct the command post
+  ./wav/general/allies/hq_cpconst2.wav: they've constructed a command post
+  ./wav/general/allies/hq_cpconst_a.wav: command post constructed
+  ./wav/general/allies/hq_cpconst_b.wav: command post constructed
+  ./wav/general/allies/hq_cpdam.wav: command post damaged
+  ./wav/general/allies/hq_cprep.wav: command post repaired
+  ./wav/general/allies/hq_dyndefused2_a.wav: they defused our dynamite
+  ./wav/general/allies/hq_dyndefused2_b.wav: they defused our dynamite
+  ./wav/general/allies/hq_dyndefused_a.wav: dynamite defused
+  ./wav/general/allies/hq_dyndefused_b.wav: dynamite defused
+  ./wav/general/allies/hq_dynplanted2_a.wav: they've planted dynamite
+  ./wav/general/allies/hq_dynplanted2_b.wav: they've planted dynamite
+  ./wav/general/allies/hq_dynplanted_a.wav: dynamite planted
+  ./wav/general/allies/hq_dynplanted_b.wav: dynamite planted
+  ./wav/general/allies/hq_minesspot.wav: land mine spotted, check your command map
+  ./wav/general/allies/hq_needcos_a.wav: we need a covert ops
+  ./wav/general/allies/hq_needcos_b.wav: we need a covert ops
+  ./wav/general/allies/hq_needeng_a.wav: we need an engineer
+  ./wav/general/allies/hq_needeng_b.wav: we need an engineer
+  ./wav/general/allies/hq_needfos_a.wav: we need a field ops
+  ./wav/general/allies/hq_needfos_b.wav: we need a field ops
+  ./wav/general/allies/hq_needmedic_a.wav: we need a medic
+  ./wav/general/allies/hq_needmedic_b.wav: we need a medic
+  ./wav/general/allies/hq_needsoldier_a.wav: we need a soldier
+  ./wav/general/allies/hq_needsoldier_b.wav: we need a soldier
+  ./wav/general/allies/hq_objcap.wav: objective captured
+  ./wav/general/allies/hq_objdest.wav: objective destroyed
+  ./wav/general/allies/hq_objlost.wav: objective lost
+  ./wav/general/allies/hq_objsec.wav: objective secured
+  ./wav/general/allies/hq_objtaken.wav: objective taken
+  ./wav/general/allies/hq_promocol.wav: congratulations on your promotion, colonel
+  ./wav/general/allies/hq_promocpl.wav: congratulations on your promotion, corporal
+  ./wav/general/allies/hq_promocpt.wav: congratulations on your promotion, captain
+  ./wav/general/allies/hq_promogen.wav: congratulations on your promotion, general
+  ./wav/general/allies/hq_promogenbrig.wav: congratulations on your promotion, brigadier general
+  ./wav/general/allies/hq_promogenlt.wav: congratulations on your promotion, lieutenant general
+  ./wav/general/allies/hq_promolt.wav: congratulations on your promotion, lieutenant
+  ./wav/general/allies/hq_promomaj.wav: congratulations on your promotion, major
+  ./wav/general/allies/hq_promopfc.wav: congratulations on your promotion, private first class
+  ./wav/general/allies/hq_promosgt.wav: congratulations on your promotion, sergeant
+  ./wav/general/allies/hq_tankdam_a.wav: they've damaged the tank
+  ./wav/general/allies/hq_tankdam_b.wav: they damaged the tank
+  ./wav/general/allies/hq_tankesc_a.wav: escort the tank
+  ./wav/general/allies/hq_tankesc_b.wav: escort the tank
+  ./wav/general/allies/hq_tankrep_a.wav: we've repaired the tank
+  ./wav/general/allies/hq_tankrep_b.wav: we've repaired the tank
+  ./wav/general/allies/hq_truckdam_a.wav: they've damaged the truck
+  ./wav/general/allies/hq_truckdam_b.wav: they damaged the truck
+  ./wav/general/allies/hq_truckesc_a.wav: escort the truck
+  ./wav/general/allies/hq_truckesc_b.wav: escort the truck
+  ./wav/general/allies/hq_truckrep_a.wav: we've repaired the truck
+  ./wav/general/allies/hq_truckrep_b.wav: we've repaired the truck
+
+  ./wav/goldrush/allies/hq_bankyard.wav: we're into the bank courtyard
+  ./wav/goldrush/allies/hq_gold1lost.wav: we've lost the first gold crate
+  ./wav/goldrush/allies/hq_gold1ret.wav: they've returned the first gold crate
+  ./wav/goldrush/allies/hq_gold1sec.wav: first gold crate secured
+  ./wav/goldrush/allies/hq_gold1taken.wav: we've got the first gold crate
+  ./wav/goldrush/allies/hq_gold2lost.wav: we've lost the second gold crate
+  ./wav/goldrush/allies/hq_gold2ret.wav: they've returned the second gold crate
+  ./wav/goldrush/allies/hq_gold2sec.wav: second gold crate secured
+  ./wav/goldrush/allies/hq_gold2taken.wav: we've got the second gold crate
+  ./wav/goldrush/allies/hq_goldget.wav: get the gold
+  ./wav/goldrush/allies/hq_tankbank.wav: escort the tank to the bank courtyard
+  ./wav/goldrush/allies/hq_tankbar1.wav: the tank is past the first barrier
+  ./wav/goldrush/allies/hq_tankbar2.wav: the tank is past the second barrier
+  ./wav/goldrush/allies/hq_tankbardest.wav: tank barrier destroyed
+  ./wav/goldrush/allies/hq_tankbardyn.wav: destroy the tank barrier
+  ./wav/goldrush/allies/hq_tankbarsdyn.wav: destroy the tank barriers
+  ./wav/goldrush/allies/hq_tanksteal.wav: steal the tank
+  ./wav/goldrush/allies/hq_tankstolen.wav: we've stolen the tank
+  ./wav/goldrush/allies/hq_truckbar1.wav: the truck is past the first barrier
+  ./wav/goldrush/allies/hq_truckbar2.wav: the truck is past the second barrier
+  ./wav/goldrush/allies/hq_truckbardest.wav: truck barrier destroyed
+  ./wav/goldrush/allies/hq_truckbardyn.wav: destroy the truck barrier
+  ./wav/goldrush/allies/hq_truckbarsdyn.wav: destroy the truck barriers
+  ./wav/goldrush/allies/hq_trucksteal.wav: steal the truck
+  ./wav/goldrush/allies/hq_truckstolen.wav: we've stolen the truck
+
+  ./wav/oasis/allies/hq_cavesdrain.wav: the caves are draining
+  ./wav/oasis/allies/hq_cavesflood.wav: the caves are flooding
+  ./wav/oasis/allies/hq_citycap.wav: capture the old city
+  ./wav/oasis/allies/hq_citycapd.wav: we've captured the old city
+  ./wav/oasis/allies/hq_cityrecl.wav: they've reclaimed the old city
+  ./wav/oasis/allies/hq_paknorthdest.wav: we destroyed the north anti-tank gun
+  ./wav/oasis/allies/hq_paknorthdyn.wav: destroy the north anti-tank gun
+  ./wav/oasis/allies/hq_paksdyn.wav: destroy the anti-tank guns
+  ./wav/oasis/allies/hq_paksouthdest.wav: we destroyed the south anti-tank gun
+  ./wav/oasis/allies/hq_paksouthdyn.wav: destroy the south anti-tank gun
+  ./wav/oasis/allies/hq_pumpdis.wav: they disabled the water pump
+  ./wav/oasis/allies/hq_pumprep.wav: repair the water pump
+  ./wav/oasis/allies/hq_pumprepd.wav: we've repaired the water pump
+  ./wav/oasis/allies/hq_pumpscon.wav: construct the water pumps
+  ./wav/oasis/allies/hq_pumpsrep.wav: repair the water pumps
+  ./wav/oasis/allies/hq_walldest.wav: we've breached the old city wall
+  ./wav/oasis/allies/hq_walldyn.wav: dynamite the old city wall
+
+  ./wav/radar/allies/hq_bunkercap.wav: capture the forward bunker
+  ./wav/radar/allies/hq_bunkercapd.wav: we've captured the forward bunker
+  ./wav/radar/allies/hq_bunkerrecl.wav: they reclaimed the forward bunker
+  ./wav/radar/allies/hq_entrance1dest.wav: we destroyed the main entrance
+  ./wav/radar/allies/hq_entrance1dyn.wav: destroy the main entrance
+  ./wav/radar/allies/hq_entrance2dest.wav: we destroyed the side entrance
+  ./wav/radar/allies/hq_entrance2dyn.wav: destroy the side entrance
+  ./wav/radar/allies/hq_entrancesdyn.wav: destroy the entrances
+  ./wav/radar/allies/hq_radarelost.wav: east radar parts lost
+  ./wav/radar/allies/hq_radareret.wav: they've returned the east radar parts
+  ./wav/radar/allies/hq_radaresec.wav: we've secured the east radar parts
+  ./wav/radar/allies/hq_radaresteal.wav: steal the east radar parts
+  ./wav/radar/allies/hq_radaretaken.wav: we've stolen the east radar parts
+  ./wav/radar/allies/hq_radarssteal.wav: steal the radar components
+  ./wav/radar/allies/hq_radarwlost.wav: west radar parts lost
+  ./wav/radar/allies/hq_radarwret.wav: they've returned the west radar parts
+  ./wav/radar/allies/hq_radarwsec.wav: we've secured the west radar parts
+  ./wav/radar/allies/hq_radarwsteal.wav: steal the west radar parts
+  ./wav/radar/allies/hq_radarwtaken.wav: we've stolen the west radar parts
+
+  ./wav/railgun/allies/hq_depotcap.wav: capture the depot yard
+  ./wav/railgun/allies/hq_depotcapd.wav: we've captured the depot yard
+  ./wav/railgun/allies/hq_depotrecl.wav: they've captured the depot yard
+  ./wav/railgun/allies/hq_gunctrldest.wav: gun controls destroyed
+  ./wav/railgun/allies/hq_gunctrldyn.wav: dynamite the gun controls
+  ./wav/railgun/allies/hq_gunctrlrep.wav: they've repaired the gun controls
+  ./wav/railgun/allies/hq_gunfirestop.wav: don't let them fire the rail gun
+  ./wav/railgun/allies/hq_switchlower.wav: lower the track switch
+  ./wav/railgun/allies/hq_switchlowered.wav: track switch lowered
+  ./wav/railgun/allies/hq_switchraise.wav: raise the track switch
+  ./wav/railgun/allies/hq_switchraised.wav: track switch raised
+  ./wav/railgun/allies/hq_tug1depot.wav: stop the first tug from reaching the depot
+  ./wav/railgun/allies/hq_tug1loaded.wav: they loaded the ammo onto the first tug
+  ./wav/railgun/allies/hq_tug1north.wav: stop the first tug from reaching the north crane
+  ./wav/railgun/allies/hq_tug2loaded.wav: they've loaded the ammo onto the second tug
+  ./wav/railgun/allies/hq_tug2railgun.wav: stop the second tug from reaching the railgun
+
+axis:
+  ./wav/battery/axis/hq_beacheadv.wav: they are advancing up the eastern beach
+  ./wav/battery/axis/hq_beachwadv.wav: they are advancing up the western beach
+  ./wav/battery/axis/hq_bunkercap.wav: they have captured the west bunker
+  ./wav/battery/axis/hq_bunkerdef.wav: defend the west bunker
+  ./wav/battery/axis/hq_bunkerrecl.wav: west bunker recaptured
+  ./wav/battery/axis/hq_genconst.wav: generator constructed
+  ./wav/battery/axis/hq_gendef.wav: defend the generator
+  ./wav/battery/axis/hq_gendest.wav: generator destroyed
+  ./wav/battery/axis/hq_gunctrldef.wav: defend the gun controls
+  ./wav/battery/axis/hq_rampconst.wav: assault ramp constructed
+  ./wav/battery/axis/hq_rampdest.wav: assault ramp destroyed
+  ./wav/battery/axis/hq_rampstop.wav: don't let them construct the assault ramp
+
+  ./wav/fueldump/axis/hq_bridgeconst.wav: bridge constructed, destroy it
+  ./wav/fueldump/axis/hq_bridgedam.wav: bridge damaged
+  ./wav/fueldump/axis/hq_bridgedest.wav: bridge destroyed
+  ./wav/fueldump/axis/hq_bridgereinf.wav: bridge reinforced, destroy it
+  ./wav/fueldump/axis/hq_bridgerep.wav: bridge repaired
+  ./wav/fueldump/axis/hq_bridgestop.wav: don't let them construct the bridge
+  ./wav/fueldump/axis/hq_depotbreach.wav: they have breached the depot defenses
+  ./wav/fueldump/axis/hq_depotcon.wav: construct the depot defenses
+  ./wav/fueldump/axis/hq_depotconst.wav: depot defenses constructed
+  ./wav/fueldump/axis/hq_depotdest.wav: they have destroyed the depot defenses
+  ./wav/fueldump/axis/hq_dumpdef.wav: protect the fuel depot
+  ./wav/fueldump/axis/hq_gatesdest.wav: they have destroyed the depot gates
+  ./wav/fueldump/axis/hq_gatesstop.wav: don't let them destroy the depot gates
+  ./wav/fueldump/axis/hq_gratedest.wav: they have destroyed the tunnel grate
+  ./wav/fueldump/axis/hq_tankbridge.wav: the tank is across the bridge
+  ./wav/fueldump/axis/hq_tanktunnels.wav: the tank is in the tunnels
+  ./wav/fueldump/axis/hq_tunneldest.wav: they have destroyed the tunnel doors
+  ./wav/fueldump/axis/hq_tunnelstop.wav: don't let them destroy the tunnel doors
+  ./wav/fueldump/axis/hq_walldest.wav: they have breached the side wall
+  ./wav/fueldump/axis/hq_wallstop.wav: don't let them destroy the side wall
+
+  ./wav/general/axis/hq_2minutes.wav: there are only two minutes
+  ./wav/general/axis/hq_5minutes.wav: five minutes sohldut, lows lows                              # @XXX
+  ./wav/general/axis/hq_30seconds.wav: thirty seconds, shnel shnel                                 # @XXX
+  ./wav/general/axis/hq_airabort.wav: aborting, can not see target
+  ./wav/general/axis/hq_airdenied.wav: too many air strikes requested
+  ./wav/general/axis/hq_airstrike_a.wav: affirmative
+  ./wav/general/axis/hq_airstrike_b.wav: on my way
+  ./wav/general/axis/hq_artabort.wav: aborting, can not see target
+  ./wav/general/axis/hq_artdenied_a.wav: insufficient fire support
+  ./wav/general/axis/hq_artdenied_b.wav: insufficient fire support
+  ./wav/general/axis/hq_artillery_a.wav: firing for effect
+  ./wav/general/axis/hq_artillery_b.wav: firing for effect
+  ./wav/general/axis/hq_conconst_a.wav: construction completed
+  ./wav/general/axis/hq_conconst_b.wav: construction completed
+  ./wav/general/axis/hq_condest_a.wav: construction destroyed
+  ./wav/general/axis/hq_condest_b.wav: construction destroyed
+  ./wav/general/axis/hq_confail_a.wav: construction failed
+  ./wav/general/axis/hq_confail_b.wav: construction failed
+  ./wav/general/axis/hq_cpcon_a.wav: construct the command post
+  ./wav/general/axis/hq_cpcon_b.wav: construct the command post
+  ./wav/general/axis/hq_cpconst2_a.wav: they have constructed a command post
+  ./wav/general/axis/hq_cpconst2_b.wav: they have constructed a command post
+  ./wav/general/axis/hq_cpconst_a.wav: command post constructed
+  ./wav/general/axis/hq_cpconst_b.wav: command post constructed
+  ./wav/general/axis/hq_cpdam.wav: they have damaged our command post
+  ./wav/general/axis/hq_cprep.wav: command post repaired
+  ./wav/general/axis/hq_dyndefused2_a.wav: they defused our dynamite
+  ./wav/general/axis/hq_dyndefused2_b.wav: they defused our dynamite
+  ./wav/general/axis/hq_dyndefused_a.wav: dynamite defused
+  ./wav/general/axis/hq_dyndefused_b.wav: dynamite defused
+  ./wav/general/axis/hq_dynplanted2_a.wav: they have planted dynamite
+  ./wav/general/axis/hq_dynplanted2_b.wav: they have planted dynamite
+  ./wav/general/axis/hq_dynplanted_a.wav: dynamite planted
+  ./wav/general/axis/hq_dynplanted_b.wav: dynamite planted
+  ./wav/general/axis/hq_minesspot.wav: land mine spotted, check your command map
+  ./wav/general/axis/hq_needcos_a.wav: we need a covert ops
+  ./wav/general/axis/hq_needcos_b.wav: we need a covert ops
+  ./wav/general/axis/hq_needeng_a.wav: we need an engineer
+  ./wav/general/axis/hq_needeng_b.wav: we need an engineer
+  ./wav/general/axis/hq_needfos_a.wav: we need a field ops, shnall                                 # @XXX
+  ./wav/general/axis/hq_needfos_b.wav: we need a field ops
+  ./wav/general/axis/hq_needmedic_a.wav: we need a medic
+  ./wav/general/axis/hq_needmedic_b.wav: we need a medic
+  ./wav/general/axis/hq_needsoldier_a.wav: we need a sohldut                                       # @XXX
+  ./wav/general/axis/hq_needsoldier_b.wav: we need a sohldut                                       # @XXX
+  ./wav/general/axis/hq_objcap.wav: objective captured
+  ./wav/general/axis/hq_objdest.wav: objective destroyed
+  ./wav/general/axis/hq_objlost.wav: objective lost
+  ./wav/general/axis/hq_objsec.wav: objective secured
+  ./wav/general/axis/hq_objtaken.wav: objective taken
+  ./wav/general/axis/hq_promocol.wav: congratulations on your promotion, heir oberst               # @XXX
+  ./wav/general/axis/hq_promocpl.wav: congratulations on your promotion, heir gefreiter            # @XXX
+  ./wav/general/axis/hq_promocpt.wav: congratulations on your promotion, heir hauptmahn            # @XXX
+  ./wav/general/axis/hq_promogen.wav: congratulations on your promotion, heir ganehrahl            # @XXX
+  ./wav/general/axis/hq_promogenlt.wav: congratulations on your promotion, heir ganehrahl leutnant # @XXX
+  ./wav/general/axis/hq_promogenmaj.wav: congratulations on your promotion, heir ganehrahl mah-yor # @XXX
+  ./wav/general/axis/hq_promolt.wav: congratulations on your promotion, heir leutnant              # @XXX
+  ./wav/general/axis/hq_promomaj.wav: congratulations on your promotion, heir mah-yor              # @XXX
+  ./wav/general/axis/hq_promopfc.wav: congratulations on your promotion, heir ober-shutze          # @XXX
+  ./wav/general/axis/hq_promosgt.wav: congratulations on your promotion, heir feld-wabel           # @XXX
+  ./wav/general/axis/hq_tankdam_a.wav: we have damaged the tank
+  ./wav/general/axis/hq_tankdam_b.wav: they have damaged the tank
+  ./wav/general/axis/hq_tankrep_a.wav: they have repaired the tank
+  ./wav/general/axis/hq_tankrep_b.wav: they have repaired the tank
+  ./wav/general/axis/hq_tankstop_a.wav: stop the tank
+  ./wav/general/axis/hq_tankstop_b.wav: stop the tank
+  ./wav/general/axis/hq_truckdam_a.wav: we have damaged the truck
+  ./wav/general/axis/hq_truckdam_b.wav: we have damaged the truck
+  ./wav/general/axis/hq_truckrep_a.wav: they have repaired the truck
+  ./wav/general/axis/hq_truckrep_b.wav: they have repaired the truck
+  ./wav/general/axis/hq_truckstop_a.wav: stop, that, truck
+  ./wav/general/axis/hq_truckstop_b.wav: stop the truck
+
+  ./wav/goldrush/axis/hq_bankbroken.wav: they have broken into the bank
+  ./wav/goldrush/axis/hq_bankyard.wav: they are inside the courtyard
+  ./wav/goldrush/axis/hq_gold1lost.wav: first gold crate dropped
+  ./wav/goldrush/axis/hq_gold1ret.wav: first gold crate returned
+  ./wav/goldrush/axis/hq_gold1sec.wav: they have secured the first gold crate
+  ./wav/goldrush/axis/hq_gold1taken.wav: they have taken the first gold crate
+  ./wav/goldrush/axis/hq_gold2lost.wav: second gold crate dropped
+  ./wav/goldrush/axis/hq_gold2ret.wav: second gold crate returned
+  ./wav/goldrush/axis/hq_gold2sec.wav: they have secured the second gold crate
+  ./wav/goldrush/axis/hq_gold2taken.wav: they have taken the second gold crate
+  ./wav/goldrush/axis/hq_golddef.wav: protect the gold
+  ./wav/goldrush/axis/hq_tankbar1.wav: the tank is past the first barrier
+  ./wav/goldrush/axis/hq_tankbar2.wav: the tank is past the second barrier
+  ./wav/goldrush/axis/hq_tankbarcon.wav: construct the tank barrier
+  ./wav/goldrush/axis/hq_tankbarconst.wav: tank barrier constructed
+  ./wav/goldrush/axis/hq_tankbardest.wav: tank barrier destroyed
+  ./wav/goldrush/axis/hq_tankbarscon.wav: construct the tank barriers
+  ./wav/goldrush/axis/hq_tanksteal.wav: don't let them steal the tank
+  ./wav/goldrush/axis/hq_tankstolen.wav: they have stolen the tank
+  ./wav/goldrush/axis/hq_truckbar1.wav: the truck is past the first barrier
+  ./wav/goldrush/axis/hq_truckbar2.wav: the truck is past the second barrier
+  ./wav/goldrush/axis/hq_truckbarcon.wav: construct the truck barrier
+  ./wav/goldrush/axis/hq_truckbarconst.wav: truck barrier constructed
+  ./wav/goldrush/axis/hq_truckbardest.wav: truck barrier destroyed, rebuild it
+  ./wav/goldrush/axis/hq_truckbarscon.wav: construct the truck barriers
+  ./wav/goldrush/axis/hq_trucksteal.wav: don't let them steal the truck
+  ./wav/goldrush/axis/hq_truckstolen.wav: they have stolen the truck
+
+  ./wav/oasis/axis/hq_cavesdrain.wav: caves draining
+  ./wav/oasis/axis/hq_cavesflood.wav: caves flooding
+  ./wav/oasis/axis/hq_citydef.wav: defend the old city
+  ./wav/oasis/axis/hq_citylost.wav: old city lost, reclaim it
+  ./wav/oasis/axis/hq_cityrecl.wav: old city reclaimed
+  ./wav/oasis/axis/hq_paknorthdef.wav: defend the north anti-tank gun
+  ./wav/oasis/axis/hq_paknorthdest.wav: north anti-tank gun destroyed
+  ./wav/oasis/axis/hq_paksdef.wav: defend the anti-tank guns
+  ./wav/oasis/axis/hq_paksouthdef.wav: defend the south anti-tank gun
+  ./wav/oasis/axis/hq_paksouthdest.wav: south anti-tank gun destroyed
+  ./wav/oasis/axis/hq_pumpdis.wav: water pump disabled
+  ./wav/oasis/axis/hq_pumprep.wav: water pump repaired, disable it
+  ./wav/oasis/axis/hq_pumpsstop.wav: stop them from repairing the water pumps
+  ./wav/oasis/axis/hq_pumpstop.wav: stop them from repairing the water pump
+  ./wav/oasis/axis/hq_walldef.wav: defend the old city wall
+  ./wav/oasis/axis/hq_walldest.wav: old city wall breached
+
+  ./wav/radar/axis/hq_bunkercapd.wav: they have captured the forward bunker
+  ./wav/radar/axis/hq_bunkerrecl.wav: forward bunker reclaimed
+  ./wav/radar/axis/hq_bunkerstop.wav: don't let them capture the forward bunker
+  ./wav/radar/axis/hq_entrance1def.wav: defend the main entrance
+  ./wav/radar/axis/hq_entrance1dest.wav: they have destroyed the main entrance
+  ./wav/radar/axis/hq_entrance1stop.wav: don't let them dynamite the main entrance
+  ./wav/radar/axis/hq_entrance2def.wav: defend the side entrance
+  ./wav/radar/axis/hq_entrance2dest.wav: they have destroyed the side entrance
+  ./wav/radar/axis/hq_entrance2stop.wav: don't let them dynamite the side entrance
+  ./wav/radar/axis/hq_entrancesdef.wav: defend the entrances
+  ./wav/radar/axis/hq_radaredef.wav: protect the east radar parts
+  ./wav/radar/axis/hq_radarelost.wav: east radar parts dropped
+  ./wav/radar/axis/hq_radareret.wav: we have returned the east radar parts
+  ./wav/radar/axis/hq_radaresec.wav: they have secured the east radar parts
+  ./wav/radar/axis/hq_radaretaken.wav: they have stolen the east radar parts
+  ./wav/radar/axis/hq_radarsdef.wav: protect the radar parts
+  ./wav/radar/axis/hq_radarwdef.wav: protect the west radar parts
+  ./wav/radar/axis/hq_radarwlost.wav: west radar parts dropped
+  ./wav/radar/axis/hq_radarwret.wav: we have returned the west radar parts
+  ./wav/radar/axis/hq_radarwsec.wav: they have secured the west radar parts
+  ./wav/radar/axis/hq_radarwtaken.wav: they have stolen the west radar parts
+
+  ./wav/railgun/axis/hq_depotcap.wav: capture the depot yard
+  ./wav/railgun/axis/hq_depotcapd.wav: depot yard captured
+  ./wav/railgun/axis/hq_depotrecl.wav: they have captured the depot yard
+  ./wav/railgun/axis/hq_gunctrlcon.wav: rebuild the gun controls
+  ./wav/railgun/axis/hq_gunctrldef.wav: protect the gun controls
+  ./wav/railgun/axis/hq_gunctrldest.wav: they have destroyed the gun controls
+  ./wav/railgun/axis/hq_gunfire.wav: fire the rail gun
+  ./wav/railgun/axis/hq_gunloaded.wav: ammo loaded onto rail gun
+  ./wav/railgun/axis/hq_switchlower.wav: lower the track switch
+  ./wav/railgun/axis/hq_switchlowered.wav: track switch lowered
+  ./wav/railgun/axis/hq_switchraise.wav: raise the track switch
+  ./wav/railgun/axis/hq_switchraised.wav: track switch raised
+  ./wav/railgun/axis/hq_tug1allies.wav: the allies are on the first tug
+  ./wav/railgun/axis/hq_tug1depot.wav: get the first tug to the depot
+  ./wav/railgun/axis/hq_tug1loaded.wav: ammo loaded onto the first tug
+  ./wav/railgun/axis/hq_tug1north.wav: get the first tug back to the north crane
+  ./wav/railgun/axis/hq_tug2allies.wav: the allies are on the second tug
+  ./wav/railgun/axis/hq_tug2loaded.wav: ammo loaded onto the second tug
+  ./wav/railgun/axis/hq_tug2railgun.wav: get the second tug to the rail gun
