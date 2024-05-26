@@ -22,7 +22,8 @@ RUN make altinstall
 # install piper
 RUN mkdir -pv /usr/src/
 WORKDIR /usr/src/
-RUN git clone https://github.com/rhasspy/piper.git
+RUN git clone https://github.com/rhasspy/piper.git piper
+RUN cd ./piper && git checkout a0f09cdf9155010a45c243bc8a4286b94f286ef4
 
 WORKDIR /usr/src/piper/src/python
 RUN /usr/local/bin/python3.10 -m venv .venv
