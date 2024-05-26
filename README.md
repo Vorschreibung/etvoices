@@ -13,4 +13,4 @@ Repository to train and use piper-tts voices from Enemy Territory samples.
 4. Run `./1-prepare-dataset.sh <team>`
 5. Run `./2-train-model.sh <team>`
 6. Run `./3-export-model.sh <team>`
-7. Run `"./4-say.sh <team> <message>"`
+7. Run `./4-say.sh <team> <message>`
